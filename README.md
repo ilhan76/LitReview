@@ -2,7 +2,8 @@
 
 - [Trello](https://trello.com/b/eGBmH6iz/технологии-программирования)
 - [Miro](https://miro.com/app/board/uXjVOJKiZms=/)
-- [Android](https://github.com/ilhan76/LitReviewAndroid/tree/master)
+- [Android](https://github.com/ilhan76/LitReviewAndroid)
+- [Back-end](https://github.com/KennyDied/litrecenze-backend)
 
 | Имя | Зона ответственности | 
 |----------------|---------|
