@@ -4,6 +4,7 @@
 - [Miro](https://miro.com/app/board/uXjVOJKiZms=/)
 - [Android](https://github.com/ilhan76/LitReviewAndroid)
 - [Back-end](https://github.com/KennyDied/litrecenze-backend)
+- [APK](https://drive.google.com/file/d/1dv8qc9t5EHt47ymQd5kEwBomw7gDy-Ve/view?usp=sharing)
 
 | Имя | Зона ответственности | 
 |----------------|---------|
