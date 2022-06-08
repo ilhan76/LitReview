@@ -8,6 +8,7 @@
 - [APK](https://drive.google.com/file/d/1dv8qc9t5EHt47ymQd5kEwBomw7gDy-Ve/view?usp=sharing)
 - [Видео по презентации продукта](https://youtu.be/rOYBkiZrHfI)
 - [Видео по техническому аспекту(back-end)](https://youtu.be/EWUuDiAA3Qk)
+- [Видео по техническому аспекту(front-end)](https://youtu.be/itwXfaQQoL4)
 
 | Имя | Зона ответственности | 
 |----------------|---------|
